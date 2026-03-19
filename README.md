@@ -156,18 +156,44 @@ Ejemplo de captura local para un proyecto:
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>Project 01 — Web Application</h3>
-      <p><b>Stack:</b> HTML, CSS, JavaScript, PHP, SQL</p>
-      <p>
-        Write a short result-oriented description here. Explain the problem, your solution,
-        and the value delivered to users or the business.
-      </p>
-      <p>
-        <a href="https://stalwart-tulumba-b68d6f.netlify.app/">🔗 Repository</a> |
-        <a href="#">🌍 Live Demo</a>
-      </p>
-    </td>
+   <td width="33%" valign="top" align="center">
+  <a href="https://stalwart-tulumba-b68d6f.netlify.app/">
+    <img
+      src="https://image.thum.io/get/width/900/crop/520/maxAge/24/https://stalwart-tulumba-b68d6f.netlify.app/"
+      width="100%"
+      alt="Fashion Store Frontend Preview"
+    />
+  </a>
+  <br><br>
+
+  <b>Fashion Store Frontend</b>
+  <br>
+  <sub>
+    Front-end only project for an imaginary clothing store inspired by real fashion brands.
+    Fully designed and developed by me; the images were used only as visual assets.
+  </sub>
+
+  <br><br>
+
+  <img
+    src="https://img.shields.io/badge/Frontend%20Only-HTML%20%7C%20CSS%20%7C%20JavaScript-0F172A?style=for-the-badge"
+    alt="Frontend Only"
+  />
+  <br>
+  <img
+    src="https://img.shields.io/badge/Fashion%20Store-UI%20Concept-06B6D4?style=for-the-badge"
+    alt="Fashion Store UI Concept"
+  />
+
+  <br><br>
+
+  <a href="https://stalwart-tulumba-b68d6f.netlify.app/">
+    <img
+      src="https://img.shields.io/badge/Live%20Demo-1D4ED8?style=for-the-badge&logo=netlify&logoColor=white"
+      alt="Live Demo"
+    />
+  </a>
+</td>
     <td width="33%" valign="top">
       <h3>Project 02 — n8n Automation</h3>
       <p><b>Stack:</b> n8n, Webhooks, APIs</p>
