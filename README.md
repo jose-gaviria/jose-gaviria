@@ -156,43 +156,39 @@ Ejemplo de captura local para un proyecto:
 
 <table>
   <tr>
-   <td width="33%" valign="top" align="center">
+ <td width="33%" valign="top" align="center">
+
   <a href="https://stalwart-tulumba-b68d6f.netlify.app/">
     <img
-      src="https://image.thum.io/get/width/900/crop/520/maxAge/24/https://stalwart-tulumba-b68d6f.netlify.app/"
+      src="./assets/projects/Animation.gif"
       width="100%"
-      alt="Fashion Store Frontend Preview"
+      alt="Fashion Store Preview"
     />
   </a>
+
   <br><br>
 
-  <b>Fashion Store Frontend</b>
+  <b>Ethereal Store Frontend</b>
   <br>
+
   <sub>
-    Front-end only project for an imaginary clothing store inspired by real fashion brands.
-    Fully designed and developed by me; the images were used only as visual assets.
+    Front-end de tienda de ropa ficticia inspirada en marcas reales.
   </sub>
 
   <br><br>
 
   <img
-    src="https://img.shields.io/badge/Frontend%20Only-HTML%20%7C%20CSS%20%7C%20JavaScript-0F172A?style=for-the-badge"
-    alt="Frontend Only"
-  />
-  <br>
-  <img
-    src="https://img.shields.io/badge/Fashion%20Store-UI%20Concept-06B6D4?style=for-the-badge"
-    alt="Fashion Store UI Concept"
+    src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-0F172A?style=for-the-badge"
   />
 
   <br><br>
 
   <a href="https://stalwart-tulumba-b68d6f.netlify.app/">
     <img
-      src="https://img.shields.io/badge/Live%20Demo-1D4ED8?style=for-the-badge&logo=netlify&logoColor=white"
-      alt="Live Demo"
+      src="https://img.shields.io/badge/Ver%20Proyecto-1D4ED8?style=for-the-badge&logo=netlify&logoColor=white"
     />
   </a>
+
 </td>
     <td width="33%" valign="top">
       <h3>Project 02 — n8n Automation</h3>
