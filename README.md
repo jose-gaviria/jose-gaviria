@@ -197,7 +197,7 @@ Ejemplo de captura local para un proyecto:
         Describe the workflow, what it automated, and how much time or manual effort it reduced.
       </p>
       <p>
-        <a href="#">🔗 Repository</a> |
+        <a href="https://ligaantioquena.kesug.com/?i=1">🔗 Repository</a> |
         <a href="#">📄 Case Study</a>
       </p>
     </td>
