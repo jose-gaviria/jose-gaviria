@@ -194,7 +194,7 @@ Ejemplo de captura local para un proyecto:
 
   <a href="#">
     <img
-      src="./assets/projects/Animation.gif"
+      src="./assets/projects/Animation_crud.gif"
       width="100%"
       alt="Fashion Store Preview"
     />
