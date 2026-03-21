@@ -156,7 +156,7 @@ Ejemplo de captura local para un proyecto:
 
 <table>
   <tr>
- <td width="33%" valign="top" align="center">
+<td width="33%" valign="top" align="center">
 
   <a href="https://stalwart-tulumba-b68d6f.netlify.app/">
     <img
@@ -169,19 +169,19 @@ Ejemplo de captura local para un proyecto:
   <br><br>
 
   <b>Ethereal Store Frontend</b>
-  <br>
+  <br><br>
 
   <sub>
     Front-end de tienda de ropa ficticia inspirada en marcas reales.
   </sub>
 
-  <br><br>
+  <br><br><br>
 
   <img
     src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-0F172A?style=for-the-badge"
   />
 
-  <br><br>
+  <br><br><br>
 
   <a href="https://stalwart-tulumba-b68d6f.netlify.app/">
     <img
@@ -190,13 +190,13 @@ Ejemplo de captura local para un proyecto:
   </a>
 
 </td>
-    <td width="33%" valign="top" align="center">
+<td width="33%" valign="top" align="center">
 
-  <a href="#">
+  <a href="https://ligaantioquena.kesug.com/?i=2">
     <img
       src="./assets/projects/Animation_crud.gif"
       width="100%"
-      alt="Fashion Store Preview"
+      alt="CRUD Liga Antioqueña Preview"
     />
   </a>
 
@@ -213,15 +213,13 @@ Ejemplo de captura local para un proyecto:
 
   <img
     src="https://img.shields.io/badge/CRUD-FUNCIONAL-0F172A?style=for-the-badge"
-    alt="CRUD funcional"
   />
 
-  <br><br><br><br>
+  <br><br><br>
 
   <a href="https://ligaantioquena.kesug.com/?i=2">
     <img
-      src="https://img.shields.io/badge/REPOSITORIO-1D4ED8?style=for-the-badge&logo=github&logoColor=white"
-      alt="Repositorio"
+      src="https://img.shields.io/badge/Ver%20Proyecto-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white"
     />
   </a>
 
