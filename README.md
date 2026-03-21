@@ -172,7 +172,7 @@ Ejemplo de captura local para un proyecto:
   <br><br>
 
   <sub>
-    Front-end de tienda de ropa ficticia inspirada en marcas reales.
+    Front-end project of a fictional clothing store inspired by real brands.
   </sub>
 
   <br><br><br>
@@ -185,7 +185,7 @@ Ejemplo de captura local para un proyecto:
 
   <a href="https://stalwart-tulumba-b68d6f.netlify.app/">
     <img
-      src="https://img.shields.io/badge/Ver%20Proyecto-1D4ED8?style=for-the-badge&logo=netlify&logoColor=white"
+      src="https://img.shields.io/badge/View%20Project-1D4ED8?style=for-the-badge&logo=netlify&logoColor=white"
     />
   </a>
 
@@ -202,24 +202,24 @@ Ejemplo de captura local para un proyecto:
 
   <br><br>
 
-  <b>CRUD Liga Antioqueña</b>
+  <b>CRUD Antioquia League</b>
   <br><br>
 
   <sub>
-    CRUD funcional para registrar jugadores y equipos de la Liga Antioqueña de Fútbol.
+    Functional CRUD system to manage players and teams from the Antioquia Football League.
   </sub>
 
   <br><br><br>
 
   <img
-    src="https://img.shields.io/badge/CRUD-FUNCIONAL-0F172A?style=for-the-badge"
+    src="https://img.shields.io/badge/CRUD-FUNCTIONAL-0F172A?style=for-the-badge"
   />
 
   <br><br><br>
 
   <a href="https://ligaantioquena.kesug.com/?i=2">
     <img
-      src="https://img.shields.io/badge/Ver%20Proyecto-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white"
+      src="https://img.shields.io/badge/View%20Project-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white"
     />
   </a>
 
