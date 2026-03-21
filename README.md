@@ -190,17 +190,42 @@ Ejemplo de captura local para un proyecto:
   </a>
 
 </td>
-    <td width="33%" valign="top">
-      <h3>Project 02 — n8n Automation</h3>
-      <p><b>Stack:</b> n8n, Webhooks, APIs</p>
-      <p>
-        Describe the workflow, what it automated, and how much time or manual effort it reduced.
-      </p>
-      <p>
-        <a href="https://ligaantioquena.kesug.com/?i=1">🔗 Repository</a> |
-        <a href="#">📄 Case Study</a>
-      </p>
-    </td>
+    <td width="33%" valign="top" align="center">
+
+  <a href="#">
+    <img
+      src="./assets/projects/crud-liga-preview.gif"
+      width="100%"
+      alt="CRUD Liga Antioqueña Preview"
+    />
+  </a>
+
+  <br><br>
+
+  <b>CRUD Liga Antioqueña</b>
+  <br><br>
+
+  <sub>
+    CRUD funcional para registrar jugadores y equipos de la Liga Antioqueña de Fútbol.
+  </sub>
+
+  <br><br><br>
+
+  <img
+    src="https://img.shields.io/badge/CRUD-FUNCIONAL-0F172A?style=for-the-badge"
+    alt="CRUD funcional"
+  />
+
+  <br><br><br><br>
+
+  <a href="https://ligaantioquena.kesug.com/?i=2">
+    <img
+      src="https://img.shields.io/badge/REPOSITORIO-1D4ED8?style=for-the-badge&logo=github&logoColor=white"
+      alt="Repositorio"
+    />
+  </a>
+
+</td>
     <td width="33%" valign="top">
       <h3>Project 03 — Mobile App</h3>
       <p><b>Stack:</b> Flutter, Dart, API / Firebase</p>
