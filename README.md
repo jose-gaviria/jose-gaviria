@@ -12,6 +12,9 @@
   </a>
   <img src="https://img.shields.io/badge/El%20Retiro-Antioquia%2C%20Colombia-1D4ED8?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-Junior%20Developer-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Open to work" />
+  <a href="https://github.com/Teamprogramacion15">
+    <img src="https://img.shields.io/badge/Project%20Portfolio-Teamprogramacion15-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Project portfolio organization" />
+  </a>
 </div>
 
 <h3 align="center">I turn operational needs into useful software, expressive web interfaces and reliable automations.</h3>
@@ -46,13 +49,13 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/jose-gaviria/parking-management-platform">Parking Management Platform</a></h3>
+      <h3><a href="https://github.com/Teamprogramacion15/parking-management-platform">Parking Management Platform</a></h3>
       <p>End-to-end parking operations: tickets, tariffs, payments, shifts, customers, reports and audit trails.</p>
       <p><b>Next.js · NestJS · Prisma · PostgreSQL · Jest</b></p>
       <p>27 automated tests · full typecheck · production build verified</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/jose-gaviria/dinamo-creative-site">Dinamo Creative Site</a></h3>
+      <h3><a href="https://github.com/Teamprogramacion15/dinamo-creative-site">Dinamo Creative Site</a></h3>
       <p>Immersive agency website with cinematic scroll storytelling, responsive motion and optimized visual assets.</p>
       <p><b>React · Vite · GSAP · Lenis · CSS</b></p>
       <p>Asset verification · responsive experience profiles · production build verified</p>
@@ -60,13 +63,13 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/jose-gaviria/architectural-visualization-blender">Architectural Visualization</a></h3>
+      <h3><a href="https://github.com/Teamprogramacion15/architectural-visualization-blender">Architectural Visualization</a></h3>
       <p>Procedural 8 × 16 m house model with a BIM-light workflow, architectural renders and reusable exports.</p>
       <p><b>Blender · Python · GLB · FBX · 3D workflow</b></p>
       <p>Python generator · visual gallery · editable source model</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/jose-gaviria/dinamo-web-experience-lab">Web Experience Lab</a></h3>
+      <h3><a href="https://github.com/Teamprogramacion15/dinamo-web-experience-lab">Web Experience Lab</a></h3>
       <p>Three premium brand experiences organized around reusable UI patterns, design tokens and performance budgets.</p>
       <p><b>Next.js · TypeScript · Tailwind CSS · Motion</b></p>
       <p>All three applications pass typecheck and production builds</p>
@@ -74,13 +77,13 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/jose-gaviria/remotion-business-ad">Remotion Business Ad</a></h3>
+      <h3><a href="https://github.com/Teamprogramacion15/remotion-business-ad">Remotion Business Ad</a></h3>
       <p>A programmatic business advertisement composed as a reusable React timeline.</p>
       <p><b>React · TypeScript · Remotion</b></p>
       <p>Type-safe composition · dependency audit with 0 known vulnerabilities</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/jose-gaviria/interactive-presentations">Interactive Presentations</a></h3>
+      <h3><a href="https://github.com/Teamprogramacion15/interactive-presentations">Interactive Presentations</a></h3>
       <p>Collection of eight branded web presentations combining storytelling, animation, audio and responsive layouts.</p>
       <p><b>Vite · JavaScript · GSAP · CSS</b></p>
       <p>8/8 production builds verified</p>
@@ -92,15 +95,15 @@
 
 | Project | Focus | Core stack |
 |---|---|---|
-| [Integral Fire Department Platform](https://github.com/jose-gaviria/integral-fire-department-platform) | Personnel, inventory and operational management | React, TypeScript, Python, FastAPI |
-| [Llanogrande Visitor Control](https://github.com/jose-gaviria/llanogrande-visitor-control) | Secure visitor and warehouse access | Next.js, Supabase, QR |
-| [Heikamfy Sport](https://github.com/jose-gaviria/heikamfy-sport) | Sports ecommerce experience | Next.js, Shopify, Mercado Pago |
-| [Emaus WhatsApp Commerce](https://github.com/jose-gaviria/emaus-whatsapp-commerce) | Messaging, automation and analytics stack | Node.js, n8n, Docker, PostgreSQL |
-| [El Trigal Production Control](https://github.com/jose-gaviria/el-trigal-production-control) | Production tracking and reports | Next.js, Prisma, PostgreSQL |
-| [Juzt Agronomy Site](https://github.com/jose-gaviria/juzt-agronomy-site) | Responsive lead-generation website | Next.js, TypeScript |
-| [Heikamfy Category Carousel](https://github.com/jose-gaviria/heikamfy-category-carousel) | Interactive ecommerce navigation | React, Vite, CSS |
-| [Retirar ManyChat Prototype](https://github.com/jose-gaviria/retirar-manychat-prototype) | Campaign interaction prototype | HTML, CSS, JavaScript |
-| [Frontend Learning Lab](https://github.com/jose-gaviria/frontend-learning-lab) | Semantic, accessible frontend practice | HTML, CSS |
+| [Integral Fire Department Platform](https://github.com/Teamprogramacion15/integral-fire-department-platform) | Personnel, inventory and operational management | React, TypeScript, Python, FastAPI |
+| [Llanogrande Visitor Control](https://github.com/Teamprogramacion15/llanogrande-visitor-control) | Secure visitor and warehouse access | Next.js, Supabase, QR |
+| [Heikamfy Sport](https://github.com/Teamprogramacion15/heikamfy-sport) | Sports ecommerce experience | Next.js, Shopify, Mercado Pago |
+| [Emaus WhatsApp Commerce](https://github.com/Teamprogramacion15/emaus-whatsapp-commerce) | Messaging, automation and analytics stack | Node.js, n8n, Docker, PostgreSQL |
+| [El Trigal Production Control](https://github.com/Teamprogramacion15/el-trigal-production-control) | Production tracking and reports | Next.js, Prisma, PostgreSQL |
+| [Juzt Agronomy Site](https://github.com/Teamprogramacion15/juzt-agronomy-site) | Responsive lead-generation website | Next.js, TypeScript |
+| [Heikamfy Category Carousel](https://github.com/Teamprogramacion15/heikamfy-category-carousel) | Interactive ecommerce navigation | React, Vite, CSS |
+| [Retirar ManyChat Prototype](https://github.com/Teamprogramacion15/retirar-manychat-prototype) | Campaign interaction prototype | HTML, CSS, JavaScript |
+| [Frontend Learning Lab](https://github.com/Teamprogramacion15/frontend-learning-lab) | Semantic, accessible frontend practice | HTML, CSS |
 
 ## Technology
 
