@@ -1,7 +1,7 @@
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:1D4ED8,100:06B6D4&section=header&text=JOSE%20MANUEL%20GAVIRIA%20ARIAS&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Development%20%7C%20Web%20Experiences%20%7C%20Automation%20%7C%203D&descAlignY=58&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:1D4ED8,100:06B6D4&section=header&text=JOSE%20MANUEL%20GAVIRIA%20ARIAS&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Development%20%7C%20Local%20AI%20%7C%20Computer%20Vision%20%7C%20Automation&descAlignY=58&descSize=18"
     alt="Jose Manuel Gaviria Arias — developer profile"
   />
 </div>
@@ -12,17 +12,14 @@
   </a>
   <img src="https://img.shields.io/badge/El%20Retiro-Antioquia%2C%20Colombia-1D4ED8?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-Junior%20Developer-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Open to work" />
-  <a href="https://github.com/Teamprogramacion15">
-    <img src="https://img.shields.io/badge/Project%20Portfolio-Teamprogramacion15-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Project portfolio organization" />
-  </a>
 </div>
 
-<h3 align="center">I turn operational needs into useful software, expressive web interfaces and reliable automations.</h3>
+<h3 align="center">I turn operational needs into useful software: full-stack products, applied AI and reliable automation.</h3>
 
 <p align="center">
-  Computer Systems student and Programmer & IT Support Assistant at <b>Agencia Dinamo</b>.<br />
-  I build full-stack products with TypeScript, React, Next.js, Node.js, PostgreSQL and Docker,
-  with a strong interest in design, automation and measurable business value.
+  Computer Systems student and Programmer &amp; IT Support Assistant at <b>Agencia Dinamo</b>.<br />
+  I work with TypeScript, React, Node.js, Python, OpenCV, PostgreSQL and Docker —
+  from business platforms to local-first AI and computer vision systems.
 </p>
 
 ## What I build
@@ -31,15 +28,15 @@
   <tr>
     <td width="33%" valign="top">
       <h3>Full-stack systems</h3>
-      <p>Operational software with authentication, roles, data persistence, reporting, APIs and testable business rules.</p>
+      <p>Operational software with authentication, roles, persistence, reporting, APIs and testable business rules.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Web experiences</h3>
-      <p>Responsive interfaces with strong visual hierarchy, motion, accessibility and reusable design systems.</p>
+      <h3>Applied AI &amp; vision</h3>
+      <p>Local-first assistants, speech, retrieval and face-recognition pipelines that run on the machine that owns the data.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Automation & media</h3>
-      <p>Workflow automation, WhatsApp commerce, programmatic video and interactive presentations for real teams.</p>
+      <h3>Automation &amp; web</h3>
+      <p>Workflow automation, WhatsApp commerce and responsive interfaces with accessibility and motion as requirements.</p>
     </td>
   </tr>
 </table>
@@ -49,44 +46,44 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Teamprogramacion15/parking-management-platform">Parking Management Platform</a></h3>
+      <h3><a href="https://github.com/jose-gaviria/zero-yarvis">ZERO / YARVIS</a></h3>
+      <p>Local-first AI desktop assistant combining wake-word detection, speech recognition, local LLM inference, retrieval, typed desktop actions and verification.</p>
+      <p><b>Python · Local AI · RAG · Speech · Testing · CI</b></p>
+      <p>315 tests passing · GitHub Actions verified</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jose-gaviria/biometric-attendance-payroll">Biometric Attendance &amp; Payroll</a></h3>
+      <p>Offline face-recognition attendance and Colombian payroll system running as a single Docker container.</p>
+      <p><b>TypeScript · React · Node.js · Python · OpenCV · SQLite · Docker</b></p>
+      <p>Face recognition · attendance · payroll rules · offline deployment · CI verified</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jose-gaviria/parking-management-platform">Parking Management Platform</a></h3>
       <p>End-to-end parking operations: tickets, tariffs, payments, shifts, customers, reports and audit trails.</p>
       <p><b>Next.js · NestJS · Prisma · PostgreSQL · Jest</b></p>
-      <p>27 automated tests · full typecheck · production build verified</p>
+      <p>Automated tests · full typecheck · production build verified</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Teamprogramacion15/dinamo-creative-site">Dinamo Creative Site</a></h3>
-      <p>Immersive agency website with cinematic scroll storytelling, responsive motion and optimized visual assets.</p>
-      <p><b>React · Vite · GSAP · Lenis · CSS</b></p>
-      <p>Asset verification · responsive experience profiles · production build verified</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Teamprogramacion15/architectural-visualization-blender">Architectural Visualization</a></h3>
-      <p>Procedural 8 × 16 m house model with a BIM-light workflow, architectural renders and reusable exports.</p>
-      <p><b>Blender · Python · GLB · FBX · 3D workflow</b></p>
-      <p>Python generator · visual gallery · editable source model</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Teamprogramacion15/dinamo-web-experience-lab">Web Experience Lab</a></h3>
-      <p>Three premium brand experiences organized around reusable UI patterns, design tokens and performance budgets.</p>
-      <p><b>Next.js · TypeScript · Tailwind CSS · Motion</b></p>
-      <p>All three applications pass typecheck and production builds</p>
+      <h3><a href="https://github.com/jose-gaviria/heikamfy-sport">Heikamfy Sport</a></h3>
+      <p>Sports ecommerce experience integrating Shopify, payments and a premium Next.js interface.</p>
+      <p><b>Next.js · TypeScript · Shopify · Mercado Pago</b></p>
+      <p>Storefront integration · responsive product experience</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Teamprogramacion15/remotion-business-ad">Remotion Business Ad</a></h3>
-      <p>A programmatic business advertisement composed as a reusable React timeline.</p>
-      <p><b>React · TypeScript · Remotion</b></p>
-      <p>Type-safe composition · dependency audit with 0 known vulnerabilities</p>
+      <h3><a href="https://github.com/jose-gaviria/llanogrande-visitor-control">Llanogrande Visitor Control</a></h3>
+      <p>Secure visitor access and warehouse control platform with roles, QR identification and traceability.</p>
+      <p><b>Next.js · TypeScript · Supabase · PostgreSQL</b></p>
+      <p>Role-based access · auditable movements</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Teamprogramacion15/interactive-presentations">Interactive Presentations</a></h3>
-      <p>Collection of eight branded web presentations combining storytelling, animation, audio and responsive layouts.</p>
-      <p><b>Vite · JavaScript · GSAP · CSS</b></p>
-      <p>8/8 production builds verified</p>
+      <h3><a href="https://github.com/jose-gaviria/emaus-whatsapp-commerce">Emaus WhatsApp Commerce</a></h3>
+      <p>WhatsApp commerce operations stack with automation, analytics and containerized services.</p>
+      <p><b>Node.js · PostgreSQL · Docker · WhatsApp Cloud API</b></p>
+      <p>Authenticated admin panel · signed webhooks · containerized deployment</p>
     </td>
   </tr>
 </table>
@@ -95,24 +92,21 @@
 
 | Project | Focus | Core stack |
 |---|---|---|
-| [Integral Fire Department Platform](https://github.com/Teamprogramacion15/integral-fire-department-platform) | Personnel, inventory and operational management | React, TypeScript, Python, FastAPI |
-| [Llanogrande Visitor Control](https://github.com/Teamprogramacion15/llanogrande-visitor-control) | Secure visitor and warehouse access | Next.js, Supabase, QR |
-| [Heikamfy Sport](https://github.com/Teamprogramacion15/heikamfy-sport) | Sports ecommerce experience | Next.js, Shopify, Mercado Pago |
-| [Emaus WhatsApp Commerce](https://github.com/Teamprogramacion15/emaus-whatsapp-commerce) | Messaging, automation and analytics stack | Node.js, n8n, Docker, PostgreSQL |
-| [El Trigal Production Control](https://github.com/Teamprogramacion15/el-trigal-production-control) | Production tracking and reports | Next.js, Prisma, PostgreSQL |
-| [Juzt Agronomy Site](https://github.com/Teamprogramacion15/juzt-agronomy-site) | Responsive lead-generation website | Next.js, TypeScript |
-| [Heikamfy Category Carousel](https://github.com/Teamprogramacion15/heikamfy-category-carousel) | Interactive ecommerce navigation | React, Vite, CSS |
-| [Retirar ManyChat Prototype](https://github.com/Teamprogramacion15/retirar-manychat-prototype) | Campaign interaction prototype | HTML, CSS, JavaScript |
-| [Frontend Learning Lab](https://github.com/Teamprogramacion15/frontend-learning-lab) | Semantic, accessible frontend practice | HTML, CSS |
+| [El Trigal Production Control](https://github.com/jose-gaviria/el-trigal-production-control) | Production tracking, reporting and operational dashboards | Next.js, Prisma, PostgreSQL |
+| [Integral Fire Department Platform](https://github.com/Teamprogramacion15/integral-fire-department-platform) | Personnel, inventory and institutional operations | React, TypeScript, Python, FastAPI |
+| [Dinamo Creative Site](https://github.com/Teamprogramacion15/dinamo-creative-site) | Immersive agency website with cinematic scroll storytelling | React, Vite, GSAP |
+| [Web Experience Lab](https://github.com/Teamprogramacion15/dinamo-web-experience-lab) | Three brand experiences built on a shared design system | Next.js, TypeScript, Tailwind CSS |
+
+Earlier web, media and learning repositories remain at [Teamprogramacion15](https://github.com/Teamprogramacion15).
 
 ## Technology
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,python,html,css,tailwind,postgres,prisma,supabase,docker,git,github,blender&perline=9" alt="Technology stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,python,fastapi,opencv,postgres,prisma,supabase,sqlite,docker,git,github&perline=8" alt="Technology stack" />
   <br /><br />
+  <img src="https://img.shields.io/badge/Local%20AI-LLM%20%7C%20Speech%20%7C%20RAG-0F172A?style=for-the-badge" alt="Local AI" />
   <img src="https://img.shields.io/badge/Automation-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Programmatic%20Video-Remotion-0F172A?style=for-the-badge" alt="Remotion" />
-  <img src="https://img.shields.io/badge/Testing-Jest%20%7C%20Vitest-1D4ED8?style=for-the-badge" alt="Testing" />
+  <img src="https://img.shields.io/badge/Testing-Jest%20%7C%20Vitest%20%7C%20pytest-1D4ED8?style=for-the-badge" alt="Testing" />
 </div>
 
 ## Engineering approach
@@ -120,8 +114,8 @@
 - Start from the operational problem and make the workflow explicit.
 - Keep credentials, generated output, local databases and backups outside Git.
 - Verify type safety, tests and production builds before publishing.
-- Treat accessibility, responsive behavior and visual polish as product requirements.
-- Document setup, architecture and project boundaries so another developer can continue the work.
+- State what a system does *not* guarantee, instead of overselling it.
+- Document architecture and boundaries so another developer can continue the work.
 
 ## Experience & education
 
