@@ -45,45 +45,50 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/jose-gaviria/zero-yarvis">ZERO / YARVIS</a></h3>
+    <td valign="top">
+      <h3><a href="https://github.com/jose-gaviria/zero-yarvis">ZERO / YARVIS</a> &nbsp;<img src="https://img.shields.io/badge/main%20project-0F172A?style=flat-square" alt="Main project" /></h3>
       <p>Local-first AI desktop assistant combining wake-word detection, speech recognition, local LLM inference, retrieval, typed desktop actions and verification.</p>
       <p><b>Python · Local AI · RAG · Speech · Testing · CI</b></p>
-      <p>315 tests passing · GitHub Actions verified</p>
+      <p><img src="https://img.shields.io/badge/tests-315%20passing-1D4ED8?style=flat-square" alt="315 tests passing" />
+         <img src="https://img.shields.io/badge/CI-GitHub%20Actions%20verified-06B6D4?style=flat-square&logo=githubactions&logoColor=white" alt="CI verified" /></p>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/jose-gaviria/biometric-attendance-payroll">Biometric Attendance &amp; Payroll</a></h3>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3><a href="https://github.com/jose-gaviria/biometric-attendance-payroll">Biometric Attendance &amp; Payroll</a> &nbsp;<img src="https://img.shields.io/badge/main%20project-0F172A?style=flat-square" alt="Main project" /></h3>
       <p>Offline face-recognition attendance and Colombian payroll system running as a single Docker container.</p>
       <p><b>TypeScript · React · Node.js · Python · OpenCV · SQLite · Docker</b></p>
-      <p>Face recognition · attendance · payroll rules · offline deployment · CI verified</p>
+      <p>Face recognition · Attendance · Colombian payroll · Offline deployment · CI</p>
+      <p><img src="https://img.shields.io/badge/CI-GitHub%20Actions%20verified-06B6D4?style=flat-square&logo=githubactions&logoColor=white" alt="CI verified" /></p>
     </td>
   </tr>
+</table>
+
+### Also on my profile
+
+<table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/jose-gaviria/parking-management-platform">Parking Management Platform</a></h3>
-      <p>End-to-end parking operations: tickets, tariffs, payments, shifts, customers, reports and audit trails.</p>
+      <h4><a href="https://github.com/jose-gaviria/parking-management-platform">Parking Management Platform</a></h4>
+      <p>Parking operations: tickets, tariffs, payments, shifts, reports and audit trails.</p>
       <p><b>Next.js · NestJS · Prisma · PostgreSQL · Jest</b></p>
-      <p>Automated tests · full typecheck · production build verified</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/jose-gaviria/heikamfy-sport">Heikamfy Sport</a></h3>
-      <p>Sports ecommerce experience integrating Shopify, payments and a premium Next.js interface.</p>
+      <h4><a href="https://github.com/jose-gaviria/heikamfy-sport">Heikamfy Sport</a></h4>
+      <p>Sports ecommerce experience integrating Shopify, payments and a premium interface.</p>
       <p><b>Next.js · TypeScript · Shopify · Mercado Pago</b></p>
-      <p>Storefront integration · responsive product experience</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/jose-gaviria/llanogrande-visitor-control">Llanogrande Visitor Control</a></h3>
-      <p>Secure visitor access and warehouse control platform with roles, QR identification and traceability.</p>
+      <h4><a href="https://github.com/jose-gaviria/llanogrande-visitor-control">Llanogrande Visitor Control</a></h4>
+      <p>Visitor access and warehouse control with roles, QR identification and traceability.</p>
       <p><b>Next.js · TypeScript · Supabase · PostgreSQL</b></p>
-      <p>Role-based access · auditable movements</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/jose-gaviria/emaus-whatsapp-commerce">Emaus WhatsApp Commerce</a></h3>
-      <p>WhatsApp commerce operations stack with automation, analytics and containerized services.</p>
+      <h4><a href="https://github.com/jose-gaviria/emaus-whatsapp-commerce">Emaus WhatsApp Commerce</a></h4>
+      <p>WhatsApp commerce operations with automation, analytics and containerized services.</p>
       <p><b>Node.js · PostgreSQL · Docker · WhatsApp Cloud API</b></p>
-      <p>Authenticated admin panel · signed webhooks · containerized deployment</p>
     </td>
   </tr>
 </table>
@@ -135,13 +140,6 @@ Earlier web, media and learning repositories remain at [Teamprogramacion15](http
   <br />
   <p>Developing a practical foundation in software engineering, databases, web development, support and networking.</p>
 </details>
-
-## GitHub activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jose-gaviria&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Jose's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-gaviria&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages" />
-</div>
 
 ## Contact
 
