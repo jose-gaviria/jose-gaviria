@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 400" width="880" height="400" role="img" aria-label="ZERO / YARVIS — local-first AI assistant: voice in, local model, retrieval, verified desktop actions">
+  <defs>
+    <linearGradient id="zbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050A16"/><stop offset="1" stop-color="#0A1830"/>
+    </linearGradient>
+    <linearGradient id="zline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2563EB"/><stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <radialGradient id="zglow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.30"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="880" height="400" rx="18" fill="url(#zbg)"/>
+  <circle cx="440" cy="200" r="230" fill="url(#zglow)"/>
+  <rect x="0.5" y="0.5" width="879" height="399" rx="18" fill="none" stroke="#1E40AF" stroke-opacity="0.45"/>
+
+  <text x="44" y="58" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" letter-spacing="3.4" fill="#67E8F9">LOCAL-FIRST AI ASSISTANT</text>
+  <text x="44" y="98" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#F8FAFC">ZERO / YARVIS</text>
+  <rect x="44" y="116" width="54" height="3.5" rx="2" fill="url(#zline)"/>
+
+  <!-- voice waveform -->
+  <g stroke="#38BDF8" stroke-width="4" stroke-linecap="round" opacity="0.95">
+    <line x1="60" y1="215" x2="60" y2="245"/><line x1="76" y1="200" x2="76" y2="260"/>
+    <line x1="92" y1="182" x2="92" y2="278"/><line x1="108" y1="205" x2="108" y2="255"/>
+    <line x1="124" y1="192" x2="124" y2="268"/><line x1="140" y1="215" x2="140" y2="245"/>
+  </g>
+  <text x="60" y="308" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#94A3B8">wake word · speech</text>
+
+  <!-- flow line -->
+  <path d="M168 230 H760" stroke="url(#zline)" stroke-width="2" stroke-opacity="0.6" fill="none"/>
+
+  <!-- core model node -->
+  <g>
+    <circle cx="330" cy="230" r="52" fill="#0B1F3D" stroke="#3B82F6" stroke-width="1.6"/>
+    <circle cx="330" cy="230" r="20" fill="none" stroke="#22D3EE" stroke-width="1.6"/>
+    <circle cx="330" cy="230" r="7" fill="#22D3EE"/>
+    <g stroke="#3B82F6" stroke-width="1.3" opacity="0.85">
+      <path d="M330 178 V210 M330 250 V282 M278 230 H310 M350 230 H382"/>
+      <path d="M293 193 L313 213 M367 267 L347 247 M367 193 L347 213 M293 267 L313 247"/>
+    </g>
+  </g>
+  <text x="330" y="308" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#94A3B8">local model</text>
+
+  <!-- retrieval / RAG -->
+  <g transform="translate(470,196)">
+    <rect width="88" height="68" rx="9" fill="#0B1F3D" stroke="#3B82F6" stroke-width="1.4"/>
+    <g stroke="#38BDF8" stroke-width="2" opacity="0.9">
+      <path d="M16 20 H72 M16 34 H60 M16 48 H50"/>
+    </g>
+    <circle cx="66" cy="50" r="12" fill="none" stroke="#22D3EE" stroke-width="2"/>
+    <path d="M75 59 L84 68" stroke="#22D3EE" stroke-width="2.4" stroke-linecap="round"/>
+  </g>
+  <text x="514" y="308" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#94A3B8">retrieval</text>
+
+  <!-- typed action + verification -->
+  <g transform="translate(676,190)">
+    <rect width="96" height="80" rx="9" fill="#0B1F3D" stroke="#3B82F6" stroke-width="1.4"/>
+    <rect x="14" y="16" width="68" height="10" rx="5" fill="#1D4ED8" opacity="0.8"/>
+    <rect x="14" y="34" width="46" height="10" rx="5" fill="#1E3A8A" opacity="0.8"/>
+    <path d="M18 62 L30 74 L52 50" fill="none" stroke="#22D3EE" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="724" y="308" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#94A3B8">typed action · verified</text>
+
+  <text x="44" y="360" font-family="Consolas, Menlo, monospace" font-size="14" fill="#67E8F9">Python · Local AI · RAG · Speech · Testing · CI</text>
+</svg>

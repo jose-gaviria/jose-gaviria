@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Jose Manuel Gaviria — Full-Stack Developer, Local AI, Computer Vision, Automation">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050A16"/>
+      <stop offset="0.55" stop-color="#0B1732"/>
+      <stop offset="1" stop-color="#071022"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#3B82F6" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1E3A8A" stroke-opacity="0.22" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <rect width="1200" height="340" fill="url(#grid)"/>
+  <circle cx="1010" cy="70" r="240" fill="url(#glow)"/>
+  <circle cx="200" cy="330" r="220" fill="url(#glow2)"/>
+
+  <g opacity="0.5" stroke="#38BDF8" fill="none" stroke-width="1.2">
+    <path d="M905 175 L975 135 L1045 175 L1045 245 L975 285 L905 245 Z" stroke-opacity="0.55"/>
+    <path d="M975 135 L975 285 M905 175 L1045 245 M1045 175 L905 245" stroke-opacity="0.25"/>
+  </g>
+  <g fill="#22D3EE">
+    <circle cx="975" cy="135" r="4.5"/><circle cx="1045" cy="175" r="4.5"/><circle cx="1045" cy="245" r="4.5"/>
+    <circle cx="975" cy="285" r="4.5"/><circle cx="905" cy="245" r="4.5"/><circle cx="905" cy="175" r="4.5"/>
+    <circle cx="975" cy="210" r="7" fill="#3B82F6"/>
+  </g>
+
+  <rect x="80" y="96" width="46" height="4" rx="2" fill="url(#accent)"/>
+  <text x="80" y="164" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#F8FAFC" letter-spacing="1.5">JOSE MANUEL GAVIRIA</text>
+  <text x="80" y="206" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="#93C5FD">Full-Stack Developer</text>
+  <text x="80" y="242" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="500" fill="#67E8F9" letter-spacing="2.6">LOCAL AI · COMPUTER VISION · AUTOMATION</text>
+  <text x="80" y="284" font-family="Consolas, Menlo, monospace" font-size="15" fill="#94A3B8">Python · TypeScript · React · Node.js · Docker</text>
+</svg>
