@@ -125,7 +125,7 @@ Earlier web, media and learning repositories remain at [Teamprogramacion15](http
 ## Experience & education
 
 <details open>
-  <summary><b>Agencia Dinamo — Programmer & IT Support Assistant · 2024–Present</b></summary>
+  <summary><b>Agencia Dinamo — Programmer & IT Support Assistant · Jan 2025–Present</b></summary>
   <br />
   <ul>
     <li>Build and refine web, automation and internal operational solutions.</li>
