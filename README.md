@@ -24,7 +24,7 @@ to real operational problems.
 <br />
 
 <a href="https://github.com/jose-gaviria/zero-yarvis">
-  <img src="assets/projects/zero-yarvis.svg" alt="ZERO / YARVIS — local-first AI assistant" width="100%" />
+  <img src="assets/projects/zero-yarvis-demo.gif" alt="ZERO / YARVIS — recorrido por las pantallas reales del asistente" width="100%" />
 </a>
 
 ### ZERO / YARVIS
@@ -36,7 +36,7 @@ retrieval, typed desktop actions and verification — running on the machine tha
 
 **315 tests passing · GitHub Actions verified**
 
-**[View project →](https://github.com/jose-gaviria/zero-yarvis)**
+**[View project →](https://github.com/jose-gaviria/zero-yarvis)** &nbsp;·&nbsp; [Full demo · 18s](assets/demos/zero-yarvis.mp4)
 
 <details>
 <summary>Architecture &amp; engineering</summary>
@@ -54,7 +54,7 @@ retrieval, typed desktop actions and verification — running on the machine tha
 <br />
 
 <a href="https://github.com/jose-gaviria/biometric-attendance-payroll">
-  <img src="assets/projects/biometric-attendance-payroll.svg" alt="Biometric Attendance &amp; Payroll — offline face recognition and Colombian payroll" width="100%" />
+  <img src="assets/projects/biometric-attendance-payroll-demo.gif" alt="Biometric Attendance &amp; Payroll — facial identification, attendance and payroll walkthrough" width="100%" />
 </a>
 
 ### Biometric Attendance &amp; Payroll
@@ -66,7 +66,7 @@ shifts become a payroll settlement under Colombian labour rules. One Docker cont
 
 **Face recognition · Attendance · Payroll · Offline deployment · CI**
 
-**[View project →](https://github.com/jose-gaviria/biometric-attendance-payroll)**
+**[View project →](https://github.com/jose-gaviria/biometric-attendance-payroll)** &nbsp;·&nbsp; [Full demo · 26s](assets/demos/biometric-attendance-payroll.mp4)
 
 <details>
 <summary>Architecture &amp; engineering</summary>
